@@ -11,3 +11,10 @@ run the following command to bring all npm packages required for this project
 ```
 npm install 
 ```
+
+and run the  command
+
+```
+npm run dev 
+
+```
